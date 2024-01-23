@@ -1,2 +1,2 @@
 # Texteditor
-simple text editor using Python
+Simple Text Editor using Python
