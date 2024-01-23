@@ -2,7 +2,6 @@ from tkinter import *
 from tkinter import filedialog
 from tkinter.messagebox import showerror
 
-
 filename = None
 
 def newFile():
